@@ -3,6 +3,9 @@ layout: post
 title: Cross-cache attacks against SLUB's new sheaf/barn mechanism in Linux 7.1
 mermaid: true
 date: 2026-06-27 00:51 +0700
+categories: [Linux Kernel]
+tags: [linux, kernel]
+description: How Linux 7.1's SLUB sheaf/barn caching changes cross-cache attacks, with a working strategy to free the victim slab page.
 ---
 ## Introduction
 
